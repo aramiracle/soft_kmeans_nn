@@ -34,6 +34,14 @@ This project demonstrates the implementation of Soft KMeans clustering using PyT
   - After training, visualizes the clustering results by plotting the data points colored according to their cluster assignments.
   - Overlays the learned centroids on the plot to show the central points of each cluster.
 
+### Requiremnets
+
+To install requirements using pip you can run this command in your terminal:
+
+```
+pip install -r requirements.txt
+```
+
 ### Usage:
 
 To run this project:
@@ -50,4 +58,4 @@ Soft KMeans clustering provides a flexible approach to clustering data by allowi
 
 ## Medium
 
-You can also go to this [link](https://medium.com/@a.r.amouzad.m/classic-machine-learning-part-2-4-regression-24086d7cc374) in medium site for see more details.
+You can also go to this [link](https://medium.com/@a.r.amouzad.m/soft-kmeans-with-neural-networks-000e42131086) in medium site for see more details.
